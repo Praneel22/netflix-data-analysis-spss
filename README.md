@@ -1,3 +1,9 @@
+# Netflix Data Analysis using IBM SPSS Statistics
+
+Dataset: Netflix Movies and TV Shows
+Tool Used: IBM SPSS Statistics
+Objective: Analyze Netflix content distribution, ratings, and country trends.
+
 # netflix-data-analysis-spss
 Netflix Movies and TV Shows Data Analysis using IBM SPSS Statistics
 # Netflix Data Analysis using SPSS
