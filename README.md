@@ -6,7 +6,6 @@ Objective: Analyze Netflix content distribution, ratings, and country trends.
 
 # netflix-data-analysis-spss
 Netflix Movies and TV Shows Data Analysis using IBM SPSS Statistics
-# Netflix Data Analysis using SPSS
 
 ## Overview
 This project analyzes the Netflix Movies and TV Shows dataset using IBM SPSS Statistics.
